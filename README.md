@@ -150,3 +150,21 @@ Similarly doctors can also delete their appointments and patients can view their
 ### 2. Remove Doctors by Admin
 
 &nbsp; &nbsp; &nbsp; Admin can also delete the doctors from the system. This let admin to have more control over the system.
+
+
+**How work was shared:**
+
+The development of the Hospital Management System was a collaborative effort with clearly defined roles.
+
+1. **Shree Harsha** (Database):
+   Was responsible for the Database, which involved designing and implementing the MySQL schema, ensuring data integrity, and managing the `myhmsdb` structure for all application data, including user credentials and appointments.
+
+2. **Chaithanya Reddy** (Patient Module):
+   Developed the Patient Module, focusing on user registration, secure login, appointment booking functionality, and the display of the patient's appointment history.
+
+3. **Revanth** (Doctor Module):
+   Handled the Doctor Module, which included the doctor's login interface, the dashboard for viewing scheduled appointments, and the search functionality to easily find patient records by contact number.
+
+4. **Tejeshwar** (Admin Module):
+   Managed the critical Admin Module, implementing features for viewing and managing lists of all patients, doctors, and appointments, adding new doctors, and reviewing user feedback and queries from the contact page.
+
